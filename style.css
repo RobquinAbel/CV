@@ -1,0 +1,52 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+body {
+	background-image: url("wallpaper.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;		
+	background-size: 100%;
+	margin-right: 10%;
+	margin-left: 10%;
+
+}
+
+form {
+	display: inline;
+}
+
+.contain {
+	margin: 10px;
+	border: 2px darkgrey solid;
+	border-radius: 25px;
+	background-color: rgba(171,174,179,0.5);
+}
+
+header {
+	margin: 10px;
+}
+
+.infos {
+	display: inline-block;
+	background-color: lightgrey;
+	margin: 0.5%;
+	width: 98%;
+	height: 100px;
+	border-radius: 25px;
+	outline: none;
+}
+
+.bloc50 {
+	margin: 0.5%;
+	border: 1px solid black;
+	background: lightgrey;
+	height: 100px;
+	width: 45%;
+	display: inline-block;
+	outline: none;
+}

@@ -8,28 +8,29 @@
 	</head>
 
 	<body>
-		<header>
-			<h1>Curriculum Vitae</h1>
-		</header>
+		<div class="contain">
+			<header>
+				<h1>Curriculum Vitae</h1>
+			</header>
 
-		<div class="maman">
-
-			<div>
-				<section>
+			<form action="link.php">
+				<button type="submit" class="infos">
 					<h2>A propos de moi</h2>
-				</section>
-			</div>
+				</button>
+			</form>
 
-		
-			<div class="top">
-				<section class="lightgreyS">
+			<form action="link.php">
+				<button class="bloc50">
 					<h2>Diplômes</h2>
-				</section>
+				</button>
+			</form>
 
-				<section class="lightgreyM">
+			<form action="link.php">
+				<button class="bloc50">
 					<h2>Expériences professionelles</h2>
-				</section>
-			</div>
+				</button>
+			</form>
 		</div>
+
 	</body>
 </html
