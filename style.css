@@ -16,6 +16,14 @@ body {
 
 }
 
+@media screen and (max-width: 790px)
+{
+	body
+	{
+		margin: 0%;
+	}
+}
+
 form {
 	display: inline;
 }
@@ -44,9 +52,30 @@ header {
 .bloc50 {
 	margin: 0.5%;
 	border: 1px solid black;
+	border-radius: 25px;
 	background: lightgrey;
 	height: 100px;
 	width: 45%;
 	display: inline-block;
 	outline: none;
+}
+
+@media screen and (max-width: 790px)
+{
+    form
+    {
+    	width: 100%;
+        display: block;	
+    }
+
+    .infos
+    {
+    	height: 27vh;
+    }
+
+    .bloc50
+    {
+    	width: 98%;
+    	height: 27vh;
+    }
 }
