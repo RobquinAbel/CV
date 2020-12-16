@@ -22,6 +22,37 @@
 			<header>
 				<h1>Diplômes</h1>
 			</header>
+
+			<section>
+				<table>
+					<tr>
+						<td>
+							<h4>BTS SIO</h4>
+							(Service Informatique aux Organisations)
+							<br>
+							2020
+							<br>
+							Lycée monge (Charleville Mézière)
+						</td>
+						<td>
+							<img src="logo_BTSSIO.png" alt="IMAGE">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h4>BAC SI</h4>
+							(Option Science de l'Ingénieur)
+							<br>
+							2018
+							<br>
+							Lycée Bazin (Charleville Mézière)
+						</td>
+						<td>
+							<img src="#" alt="IMAGE">
+						</td>
+					</tr>
+				</table>
+			</section>
 		</div>
 
 		<nav class="navBarMobile">
