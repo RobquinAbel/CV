@@ -28,6 +28,10 @@ form {
 	display: inline;
 }
 
+button:hover {
+	cursor: pointer;
+}
+
 .contain {
 	margin: 10px;
 	border: 2px darkgrey solid;
@@ -49,6 +53,10 @@ header {
 	outline: none;
 }
 
+.infos:focus {
+	background-color: grey
+}
+
 .bloc50 {
 	margin: 0.5%;
 	border: 1px solid black;
@@ -58,6 +66,37 @@ header {
 	width: 45%;
 	display: inline-block;
 	outline: none;
+}
+
+.bloc50:focus {
+	background-color: grey;
+}
+
+.navBarPC {
+	position: fixed;
+	top: 0;
+}
+
+.nav {
+	border-radius: 0px 0px 25px 25px;
+	background-color: lightgrey;
+	display: inline;
+	height: 50px;
+}
+
+.navBarMobile {
+	position: fixed;
+	bottom: 0;
+	width: 100vw;
+	display: none;
+}
+
+.navMobile {
+	border-radius: 25px 25px 0px 0px;
+	background-color: lightgrey;
+	display: inline;
+	width: 45vw;
+	height: 50px;
 }
 
 @media screen and (max-width: 790px)
@@ -77,5 +116,15 @@ header {
     {
     	width: 98%;
     	height: 27vh;
+    }
+
+    .navBarPC
+    {
+    	display: none;
+    }
+
+    .navBarMobile
+    {
+    	display: block;
     }
 }
