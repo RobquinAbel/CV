@@ -99,6 +99,10 @@ header {
 	height: 50px;
 }
 
+a {
+	text-decoration: none;
+}
+
 @media screen and (max-width: 790px)
 {
     form

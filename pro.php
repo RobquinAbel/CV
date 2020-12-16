@@ -9,6 +9,16 @@
 
 	<body>
 		<div class="contain">
+
+			<nav class="navBarPC">
+				<a href="infos.php">
+					<button class="nav">A propos de moi</button>
+				</a>
+				<a href="pro.php">
+					<button class="nav">Expériences professionelles</button>
+				</a>
+			</nav>
+			
 			<header>
 				<h1>Curriculum Vitae</h1>
 			</header>

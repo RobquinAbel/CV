@@ -11,16 +11,12 @@
 		<div class="contain">
 
 			<nav class="navBarPC">
-				<form action="infos.php">
-					<button type="submit" class="nav">
-						<p>A propos de moi</p>
-					</button>
-				</form>
-				<form action="pro.php">
-					<button type="submit" class="nav">
-						<p>Expériences professionelles</p>
-					</button>
-				</form>
+				<a href="infos.php">
+					<button class="nav">A propos de moi</button>
+				</a>
+				<a href="pro.php">
+					<button class="nav">Expériences professionelles</button>
+				</a>
 			</nav>
 
 			<header>
