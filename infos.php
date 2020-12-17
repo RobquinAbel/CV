@@ -11,8 +11,8 @@
 		<div class="contain">
 
 			<nav class="navBarPC">
-				<a href="infos.php">
-					<button class="nav">A propos de moi</button>
+				<a href="diplome.php">
+					<button class="nav">Diplômes</button>
 				</a>
 				<a href="pro.php">
 					<button class="nav">Expériences professionelles</button>
@@ -43,8 +43,8 @@
 		</div>
 
 		<nav class="navBarMobile">
-			<a href="infos.php">
-				<button class="navMobile">A propos de moi</button>
+			<a href="diplome.php">
+				<button class="navMobile">Diplômes</button>
 			</a>
 			<a href="pro.php">
 				<button class="navMobile">Expériences professionelles</button>

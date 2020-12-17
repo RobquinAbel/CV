@@ -13,23 +13,17 @@
 				<h1>Curriculum Vitae</h1>
 			</header>
 
-			<form action="infos.php">
-				<button type="submit" class="infos">
-					<h2>A propos de moi</h2>
-				</button>
-			</form>
+				<a href="infos.php">
+					<button class="infos"><h2>A propos de moi</h2></button>
+				</a>
 
-			<form action="diplome.php">
-				<button class="bloc50">
-					<h2>Diplômes</h2>
-				</button>
-			</form>
+				<a href="diplome.php">
+					<button class="bloc50"><h2>Diplômes</h2></button>
+				</a>
 
-			<form action="pro.php">
-				<button class="bloc50">
-					<h2>Expériences professionelles</h2>
-				</button>
-			</form>
+				<a href="pro.php">
+					<button class="bloc50"><h2>Expériences professionelles</h2></button>
+				</a>
 		</div>
 
 	</body>

@@ -14,8 +14,8 @@
 				<a href="infos.php">
 					<button class="nav">A propos de moi</button>
 				</a>
-				<a href="pro.php">
-					<button class="nav">Expériences professionelles</button>
+				<a href="diplome.php">
+					<button class="nav">Diplômes</button>
 				</a>
 			</nav>
 			
@@ -46,8 +46,8 @@
 			<a href="infos.php">
 				<button class="navMobile">A propos de moi</button>
 			</a>
-			<a href="pro.php">
-				<button class="navMobile">Expériences professionelles</button>
+			<a href="diplome.php">
+				<button class="navMobile">Diplômes</button>
 			</a>
 		</nav>
 	</body>
