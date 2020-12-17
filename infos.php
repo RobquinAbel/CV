@@ -20,10 +20,20 @@
 			</nav>
 			
 			<header>
-				<h1>Curriculum Vitae</h1>
+				<h1>A propos de moi</h1>
 			</header>
 
-				
+			<section class="infoBox">
+				<p>
+					Je suis actuellement un étudiant en <b>Licence pro intégration et webdesign</b> après avoir obtenu mon BTS SIO. Ce bagage me permet de
+					réaliser différentes tâches liées au domaines du web. Cela peut aller de la solution web au site en fonction du besoin.
+				</p>
+				<br>
+				<p>
+					
+				</p>
+			</section>
+
 		</div>
 
 		<nav class="navBarMobile">
