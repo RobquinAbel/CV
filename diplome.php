@@ -48,7 +48,7 @@
 							Lycée Bazin (Charleville Mézière)
 						</td>
 						<td>
-							<img src="#" alt="IMAGE">
+							<img src="logo_SI.png" alt="IMAGE">
 						</td>
 					</tr>
 				</table>

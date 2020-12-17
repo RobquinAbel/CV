@@ -20,27 +20,39 @@
 			</nav>
 			
 			<header>
-				<h1>Curriculum Vitae</h1>
+				<h1>Expériences profesionnelles</h1>
 			</header>
 
-			<form action="infos.php">
-				<button type="submit" class="infos">
-					<h2>A propos de moi</h2>
-				</button>
-			</form>
-
-			<form action="link.php">
-				<button class="bloc50">
-					<h2>Diplômes</h2>
-				</button>
-			</form>
-
-			<form action="link.php">
-				<button class="bloc50">
-					<h2>Expériences professionelles</h2>
-				</button>
-			</form>
-		</div>
+			<section>
+				<table>
+					<tr>
+						<td>
+							<h4>Developement d'une solution web</h4>
+							(Gestion d'un cross)
+							<br>
+							2020
+							<br>
+							Collège George Sand (Revin)
+						</td>
+						<td>
+							<img src="" alt="en attente de réponse">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<h4>Developement d'une solution web</h4>
+							(D2I : système de ticketing)
+							<br>
+							2019
+							<br>
+							AFPI/CFA (Charleville Mézière)
+						</td>
+						<td>
+							<img src="#" alt="en attente de réponse">
+						</td>
+					</tr>
+				</table>
+			</section>
 
 		<nav class="navBarMobile">
 			<a href="infos.php">
