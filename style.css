@@ -5,7 +5,9 @@
 }
 
 body {
+	background-color: lightgrey;
 	background-image: url("asset/wallpaper.jpg");
+	background-image: url(https://robquinabel.github.io/CV/asset/wallpaper.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
